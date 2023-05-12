@@ -15,5 +15,20 @@
                 "password": "2gtgw7psw7skni29b7e8oz2fa0lxm0jt"
             }
         ]
+    },
+    {
+        "eventId": "63ffe9ff-5147-47c1-a092-e467c8e36b7e",
+        "eventType": 12,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "originPostHash": "0x53188e7b98950f3876d11bdf260c0760fd262730056d00791da3526f111b1aa1theblockchainarborist",
+        "targetPostHash": "0x53188e7b98950f3876d11bdf260c0760fd262730056d00791da3526f111b1aa1",
+        "timestamp": 1683911322989,
+        "fileKeys": {
+            "timestamp": 1683911163317,
+            "fileName": "0x53188e7b98950f3876d11bdf260c0760fd262730056d00791da3526f111b1aa1",
+            "storageContainerId": "4b61620c-7351-4ce1-a753-a8cb1c1b7f61",
+            "password": "i1eixnwm5glbiqzwcih1ott45szq5t6b"
+        }
     }
 ]
