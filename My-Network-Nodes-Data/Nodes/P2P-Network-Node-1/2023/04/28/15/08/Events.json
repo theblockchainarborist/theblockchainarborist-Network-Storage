@@ -1,0 +1,16 @@
+[
+    {
+        "eventId": "a018987e-f51e-46cc-9dab-1f7fc3b160bc",
+        "eventType": 15,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "0b0ff3d0-16e7-4c58-ac83-faff54487528",
+        "timestamp": 1682694497775
+    },
+    {
+        "eventId": "a018987e-f51e-46cc-9dab-1f7fc3b160bc",
+        "eventType": 15,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "0b0ff3d0-16e7-4c58-ac83-faff54487528",
+        "timestamp": 1682694497775
+    }
+]
