@@ -14,5 +14,13 @@
         "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
         "targetPostHash": "0xe50ec7d8fda7d56b48728cbf96e884fd7d609fa7b5ff4205ef7df961c8756804",
         "timestamp": 1679187389379
+    },
+    {
+        "eventId": "c1429d95-f695-436a-a84b-72ef42de6836",
+        "eventType": null,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetPostHash": "0xe50ec7d8fda7d56b48728cbf96e884fd7d609fa7b5ff4205ef7df961c8756804",
+        "timestamp": 1679187389379
     }
 ]
