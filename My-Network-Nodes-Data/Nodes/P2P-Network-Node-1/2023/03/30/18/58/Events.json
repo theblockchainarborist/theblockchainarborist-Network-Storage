@@ -58,5 +58,15 @@
         "targetPostHash": "0x8ee6e387680d070fc03731cc2f64a7051d1da6fb75d7041b198980a848db5e7b",
         "timestamp": 1680202690293,
         "fileKeys": "theblockchainarborist"
+    },
+    {
+        "eventId": "0bcfc387-0af5-426e-ae21-dcb74aaad962",
+        "eventType": 12,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "originPostHash": "0x8ee6e387680d070fc03731cc2f64a7051d1da6fb75d7041b198980a848db5e7b",
+        "targetPostHash": "0x8ee6e387680d070fc03731cc2f64a7051d1da6fb75d7041b198980a848db5e7b",
+        "timestamp": 1680202690293,
+        "fileKeys": "theblockchainarborist"
     }
 ]
