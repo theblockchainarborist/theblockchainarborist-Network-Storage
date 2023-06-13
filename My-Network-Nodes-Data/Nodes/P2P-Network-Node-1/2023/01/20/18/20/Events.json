@@ -28,5 +28,20 @@
                 "password": "olxdk40vb5et5212yr3rb4h40llf89bv"
             }
         ]
+    },
+    {
+        "eventId": "494858af-c95d-4c1d-a2c9-1103fea5c025",
+        "eventType": 10,
+        "originSocialPersonaId": "0b0ff3d0-16e7-4c58-ac83-faff54487528",
+        "originPostHash": "0x10a16ad89c03e69f906c74b2adb5319cd3ba1214cb7dca8d5c15a3d9a56c39c5",
+        "timestamp": 1674238822546,
+        "fileKeys": [
+            {
+                "timestamp": 1674238822550,
+                "fileName": "0x10a16ad89c03e69f906c74b2adb5319cd3ba1214cb7dca8d5c15a3d9a56c39c5",
+                "storageContainerId": "ccc3c67b-17d3-4fd1-a69e-3667f0b9b8ad",
+                "password": "olxdk40vb5et5212yr3rb4h40llf89bv"
+            }
+        ]
     }
 ]
