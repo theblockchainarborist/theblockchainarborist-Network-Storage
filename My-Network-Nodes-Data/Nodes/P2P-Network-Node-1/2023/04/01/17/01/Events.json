@@ -1,0 +1,20 @@
+[
+    {
+        "eventId": "26c98058-07f0-455a-84ae-ccd643ffb8ae",
+        "eventType": 12,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "originPostHash": "0x366bdd39b2945ddedccfd25d2e70bd47a4fd2aff2dfc780490db4e5f97389c40theblockchainarborist",
+        "targetPostHash": "0x366bdd39b2945ddedccfd25d2e70bd47a4fd2aff2dfc780490db4e5f97389c40",
+        "timestamp": 1680368481716
+    },
+    {
+        "eventId": "26c98058-07f0-455a-84ae-ccd643ffb8ae",
+        "eventType": 12,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "originPostHash": "0x366bdd39b2945ddedccfd25d2e70bd47a4fd2aff2dfc780490db4e5f97389c40theblockchainarborist",
+        "targetPostHash": "0x366bdd39b2945ddedccfd25d2e70bd47a4fd2aff2dfc780490db4e5f97389c40",
+        "timestamp": 1680368481716
+    }
+]
