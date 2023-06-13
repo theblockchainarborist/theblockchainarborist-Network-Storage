@@ -40,5 +40,12 @@
         "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
         "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
         "timestamp": 1680192411233
+    },
+    {
+        "eventId": "d9c56a3b-df09-4a02-9251-e63a9448d797",
+        "eventType": 709,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "timestamp": 1680192411233
     }
 ]
