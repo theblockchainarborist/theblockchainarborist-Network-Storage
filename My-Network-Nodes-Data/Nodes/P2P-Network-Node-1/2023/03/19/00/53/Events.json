@@ -54,5 +54,21 @@
         "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
         "targetPostHash": "0xe50ec7d8fda7d56b48728cbf96e884fd7d609fa7b5ff4205ef7df961c8756804",
         "timestamp": 1679187220513
+    },
+    {
+        "eventId": "3516a7dd-e870-45e5-8cd0-e95198dbab52",
+        "eventType": null,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetPostHash": "0xe50ec7d8fda7d56b48728cbf96e884fd7d609fa7b5ff4205ef7df961c8756804",
+        "timestamp": 1679187220513
+    },
+    {
+        "eventId": "3516a7dd-e870-45e5-8cd0-e95198dbab52",
+        "eventType": null,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetPostHash": "0xe50ec7d8fda7d56b48728cbf96e884fd7d609fa7b5ff4205ef7df961c8756804",
+        "timestamp": 1679187220513
     }
 ]
