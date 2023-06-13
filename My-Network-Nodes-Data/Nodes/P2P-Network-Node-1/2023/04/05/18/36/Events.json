@@ -54,5 +54,37 @@
         "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
         "targetPostHash": "0x5133e9a6a8b458bfa434a2296a0e75671c44d789e2f4b7e6ae029f9bcbf9e3c0",
         "timestamp": 1680719766886
+    },
+    {
+        "eventId": "ab007c4f-78f2-4330-ac83-4f3d29cf0df8",
+        "eventType": 709,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetPostHash": "0x5133e9a6a8b458bfa434a2296a0e75671c44d789e2f4b7e6ae029f9bcbf9e3c0",
+        "timestamp": 1680719766886
+    },
+    {
+        "eventId": "ab007c4f-78f2-4330-ac83-4f3d29cf0df8",
+        "eventType": 709,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetPostHash": "0x5133e9a6a8b458bfa434a2296a0e75671c44d789e2f4b7e6ae029f9bcbf9e3c0",
+        "timestamp": 1680719766886
+    },
+    {
+        "eventId": "ab007c4f-78f2-4330-ac83-4f3d29cf0df8",
+        "eventType": 709,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetPostHash": "0x5133e9a6a8b458bfa434a2296a0e75671c44d789e2f4b7e6ae029f9bcbf9e3c0",
+        "timestamp": 1680719766886
+    },
+    {
+        "eventId": "ab007c4f-78f2-4330-ac83-4f3d29cf0df8",
+        "eventType": 709,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetPostHash": "0x5133e9a6a8b458bfa434a2296a0e75671c44d789e2f4b7e6ae029f9bcbf9e3c0",
+        "timestamp": 1680719766886
     }
 ]
