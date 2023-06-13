@@ -133,5 +133,20 @@
                 "password": "ignlplmnrl09s1runt2ps4chnvuu2j21"
             }
         ]
+    },
+    {
+        "eventId": "917de044-ee9f-4808-bfaa-387bcbe76bbe",
+        "eventType": 10,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "originPostHash": "0xc01923c3265a9973b5b20fb2cfa7ead5cfff5baa85ee8c23abbb55635dccdcf3",
+        "timestamp": 1680192795743,
+        "fileKeys": [
+            {
+                "timestamp": 1680192795744,
+                "fileName": "0xc01923c3265a9973b5b20fb2cfa7ead5cfff5baa85ee8c23abbb55635dccdcf3",
+                "storageContainerId": "4b61620c-7351-4ce1-a753-a8cb1c1b7f61",
+                "password": "ignlplmnrl09s1runt2ps4chnvuu2j21"
+            }
+        ]
     }
 ]
