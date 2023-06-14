@@ -86,5 +86,29 @@
         "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
         "targetPostHash": "0xfed1693433dc5cf57c000b85d557a5bc81390b6b84eb0f847dcd5f07b0f2f4fbtheblockchainarborist",
         "timestamp": 1680541114028
+    },
+    {
+        "eventId": "9c597b06-4a43-40d2-8074-cc5f3de8e6b6",
+        "eventType": 702,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetPostHash": "0xfed1693433dc5cf57c000b85d557a5bc81390b6b84eb0f847dcd5f07b0f2f4fbtheblockchainarborist",
+        "timestamp": 1680541114028
+    },
+    {
+        "eventId": "9c597b06-4a43-40d2-8074-cc5f3de8e6b6",
+        "eventType": 702,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetPostHash": "0xfed1693433dc5cf57c000b85d557a5bc81390b6b84eb0f847dcd5f07b0f2f4fbtheblockchainarborist",
+        "timestamp": 1680541114028
+    },
+    {
+        "eventId": "9c597b06-4a43-40d2-8074-cc5f3de8e6b6",
+        "eventType": 702,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetPostHash": "0xfed1693433dc5cf57c000b85d557a5bc81390b6b84eb0f847dcd5f07b0f2f4fbtheblockchainarborist",
+        "timestamp": 1680541114028
     }
 ]
