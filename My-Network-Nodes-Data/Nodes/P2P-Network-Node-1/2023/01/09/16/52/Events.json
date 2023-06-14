@@ -193,5 +193,20 @@
                 "password": "0fue0fej4yykg721wcbjl1c24lr9vajh"
             }
         ]
+    },
+    {
+        "eventId": "62421e38-02c2-498d-8fd6-b2f6bf77f615",
+        "eventType": 10,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "originPostHash": "0x6247ebd31b3661ae13ccc4bda35c2af8435f9b2029b121f085b3f3e264bc60d1",
+        "timestamp": 1673283145862,
+        "fileKeys": [
+            {
+                "timestamp": 1673283145863,
+                "fileName": "0x6247ebd31b3661ae13ccc4bda35c2af8435f9b2029b121f085b3f3e264bc60d1",
+                "storageContainerId": "4b61620c-7351-4ce1-a753-a8cb1c1b7f61",
+                "password": "0fue0fej4yykg721wcbjl1c24lr9vajh"
+            }
+        ]
     }
 ]
