@@ -1,0 +1,10 @@
+[
+    {
+        "eventId": "f34b088e-931d-421a-8809-c51e5b1991a9",
+        "eventType": 0,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetPostHash": "0x42dad8e8083d651edb1ef9869f85cc42bd69b214221ea4d7c8cc31893f672cfd",
+        "timestamp": 1686769958483
+    }
+]
