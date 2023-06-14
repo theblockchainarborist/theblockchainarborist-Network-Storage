@@ -97,5 +97,32 @@
         "originPostHash": "0x5133e9a6a8b458bfa434a2296a0e75671c44d789e2f4b7e6ae029f9bcbf9e3c0theblockchainarborist",
         "targetPostHash": "0x5133e9a6a8b458bfa434a2296a0e75671c44d789e2f4b7e6ae029f9bcbf9e3c0",
         "timestamp": 1680715879116
+    },
+    {
+        "eventId": "27765c4a-93f9-4ac6-b921-80ac9fb629f3",
+        "eventType": 12,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "originPostHash": "0x5133e9a6a8b458bfa434a2296a0e75671c44d789e2f4b7e6ae029f9bcbf9e3c0theblockchainarborist",
+        "targetPostHash": "0x5133e9a6a8b458bfa434a2296a0e75671c44d789e2f4b7e6ae029f9bcbf9e3c0",
+        "timestamp": 1680715879116
+    },
+    {
+        "eventId": "27765c4a-93f9-4ac6-b921-80ac9fb629f3",
+        "eventType": 12,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "originPostHash": "0x5133e9a6a8b458bfa434a2296a0e75671c44d789e2f4b7e6ae029f9bcbf9e3c0theblockchainarborist",
+        "targetPostHash": "0x5133e9a6a8b458bfa434a2296a0e75671c44d789e2f4b7e6ae029f9bcbf9e3c0",
+        "timestamp": 1680715879116
+    },
+    {
+        "eventId": "27765c4a-93f9-4ac6-b921-80ac9fb629f3",
+        "eventType": 12,
+        "originSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "targetSocialPersonaId": "4519297c-6c5a-4991-bbdb-3642e1b84727",
+        "originPostHash": "0x5133e9a6a8b458bfa434a2296a0e75671c44d789e2f4b7e6ae029f9bcbf9e3c0theblockchainarborist",
+        "targetPostHash": "0x5133e9a6a8b458bfa434a2296a0e75671c44d789e2f4b7e6ae029f9bcbf9e3c0",
+        "timestamp": 1680715879116
     }
 ]
